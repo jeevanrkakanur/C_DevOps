@@ -19,4 +19,4 @@ How to Run:
     program.exe (Windows)
 
 Expected Output:
-    Result of add(5, 7) = 12
+    Result of add(5, 7) = 12       
